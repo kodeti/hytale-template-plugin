@@ -1,22 +1,18 @@
 {
-    "Group": "Plugin",
+    "Group": "com.kodeti",
     "Name": "OneInTheChamber",
-    "Version": "0.0.1",
+    "Main": "com.kodeti.plugin.OneInTheChamber",
+    "Version": "1.0.0",
     "Description": "One In The Chamber minigame plugin for Hytale",
     "Authors": [
         {
-            "Name": "kodeti"
+            "Name": "kodeti",
+            "Url": "https://kodeti.net"
         }
     ],
-    "Website": "kodeti.net",
+    "Website": "https://kodeti.net",
     "ServerVersion": "*",
-    "Dependencies": {
-        
-    },
-    "OptionalDependencies": {
-        
-    },
-    "DisabledByDefault": false,
-    "Main": "org.kodeti.plugin.OneInTheChamber",
-    "IncludesAssetPack": true
+    "Dependencies": {},
+    "OptionalDependencies": {},
+    "DisabledByDefault": false
 }

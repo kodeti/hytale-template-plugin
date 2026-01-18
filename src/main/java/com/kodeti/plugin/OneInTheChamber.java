@@ -1,8 +1,9 @@
-package org.kodeti.plugin;
+package com.kodeti.plugin;
 
 import com.hypixel.hytale.logger.HytaleLogger;
 import com.hypixel.hytale.server.core.plugin.JavaPlugin;
 import com.hypixel.hytale.server.core.plugin.JavaPluginInit;
+import com.kodeti.plugin.commands.ExampleCommand;
 
 import javax.annotation.Nonnull;
 
