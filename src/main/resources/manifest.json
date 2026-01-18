@@ -1,14 +1,14 @@
 {
-    "Group": "Example",
-    "Name": "ExamplePlugin",
-    "Version": "0.0.2",
-    "Description": "An example plugin for HyTale!",
+    "Group": "Plugin",
+    "Name": "OneInTheChamber",
+    "Version": "0.0.1",
+    "Description": "One In The Chamber minigame plugin for Hytale",
     "Authors": [
         {
-            "Name": "It's you!"
+            "Name": "kodeti"
         }
     ],
-    "Website": "example.org",
+    "Website": "kodeti.net",
     "ServerVersion": "*",
     "Dependencies": {
         
@@ -17,6 +17,6 @@
         
     },
     "DisabledByDefault": false,
-    "Main": "org.example.plugin.ExamplePlugin",
+    "Main": "org.kodeti.plugin.OneInTheChamber",
     "IncludesAssetPack": true
 }
